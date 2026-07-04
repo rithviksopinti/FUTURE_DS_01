@@ -78,6 +78,8 @@ The objective was to analyze business sales data and create an interactive Power
 - `Dashboard.png`
 - `README.md`
 
+## Source: https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
+
 > **Note:** The original dataset is not included in this repository due to GitHub file size limitations.
 
 ---
